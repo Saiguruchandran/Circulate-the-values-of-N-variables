@@ -26,8 +26,8 @@ def circulate():
     m=int(input())
     n=n[m:]+n[:m]
     print("After circulating the values are:",n)
+```
 ## Output:
 ![image](https://github.com/Saiguruchandran/Circulate-the-values-of-N-variables/assets/144870946/45601779-e627-4419-b656-b042e9eb04ba)
-```
 ## Result:
 Thus the Circulation of the values of N variables are successfully executed
